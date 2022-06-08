@@ -11,6 +11,6 @@ Ask if I finished
 
 Track answer
 
-Wait 5 minute
+Wait 5 minutes
 
 Loop

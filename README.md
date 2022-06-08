@@ -1,7 +1,7 @@
 # Tabata
 Quick and dirty powershell Tabata timer
 
-Figured I should do at least some exercise during the work day.
+Figured I should do at least some exercise during the work day:
 
 Do stuff
 
